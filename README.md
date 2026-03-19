@@ -12,8 +12,8 @@
 | Name | Role |
 |------|------|
 | Mansi Jangid    | Strategy, Research, Product Design |
-| [Name 2]   | Development                        |
-| [Name 3]   | UI/UX Design                       |
+| Shivam Vishwakarma  | Development                        |
+| Shivangi Sahu   | UI/UX Design                       |
 
 **Solution:** RoziRaksha  
 **Repository:** github.com/Mansi29j/devtrails_2026  
