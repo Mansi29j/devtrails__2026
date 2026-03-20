@@ -40,7 +40,7 @@ When a disruption occurs, the rider absorbs the full financial loss.
 | Fuel + platform commission | − ₹300 |
 | **Net daily** | **₹700** |
 | **Net weekly** | **₹4,200** |
-| Disruption days/year | 15–18 *(IMD Mumbai historical data)* |
+| Disruption days/year | 15–18 |
 | **Annual unprotected loss** | **₹10,500 – ₹12,600** |
  
 > Payout based on net income only. Fuel and platform commission deducted to reflect real take-home.
@@ -71,12 +71,13 @@ no paperwork required from the rider.
 **Excluded:** Health, life, accidents, vehicle damage, vehicle repair — strictly.
 
 ### 2.1 Real Scenarios Faced by Aryan
+Location:Delhi
  
 ### Scenario 1 — Heavy Rain 
  
 | | |
 |---|---|
-| **Event** | Rainfall >15mm/hr · Andheri West |
+| **Event** | Rainfall >15mm/hr · Dwarka,Delhi |
 | **Platform action** | Blinkit pauses all dispatches from dark store |
 | **Income lost** | 4 hrs × ₹70 = ₹280 |
 | **RoRak** | Open-Meteo detects threshold · activity check passes · payout triggered |
@@ -86,7 +87,7 @@ no paperwork required from the rider.
  
 | | |
 |---|---|
-| **Event** | AQI >300 · Delhi NCR |
+| **Event** | AQI >420 · Delhi NCR |
 | **Platform action** | Zepto reduces zone availability |
 | **Income lost** | 5 hrs × ₹70 = ₹350 |
 | **RoRak** | OpenAQ detects threshold · rider was active · payout triggered |
@@ -106,7 +107,7 @@ no paperwork required from the rider.
  
 | | |
 |---|---|
-| **Event** | >42°C + state heat advisory issued |
+| **Event** | >44°C + state heat advisory issued |
 | **Platform action** | Blinkit cuts delivery slots *(precedent: Delhi, May 2024)* |
 | **Income lost** | 3 hrs × ₹70 = ₹210 |
 | **RoRak** | Open-Meteo + IMD advisory confirmed · rider active · payout triggered |
